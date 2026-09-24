@@ -2,7 +2,7 @@
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'cakeshop');
 define('DB_USER', 'root');
-define('DB_PASS', 'hanine@');
+define('DB_PASS', '');
 
 try {
     $pdo = new PDO(
